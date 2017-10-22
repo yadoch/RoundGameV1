@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoundGame</string>
+    <string name="lb_round">Round:</string>
+    <string name="lb_resource1">Food:</string>
+    <string name="lb_unit">Unit:</string>
+    <string name="lb_totland">Land:</string>
+    <string name="lb_btn_addunit">Add Unit</string>
+    <string name="lb_btn_addland">Add Land</string>
+    <string name="lb_btn_endround">End Round</string>
+
+</resources>
